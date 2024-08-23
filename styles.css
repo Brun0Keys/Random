@@ -82,3 +82,10 @@ button img {
 button:hover {
     background-color:#A9E5A4;
 }
+
+@media (max-width: 600px) {
+    section {
+        flex-direction: column;
+        align-items: center;
+    }
+}
