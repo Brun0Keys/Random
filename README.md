@@ -15,7 +15,7 @@ O principal objetivo do **Random** é oferecer uma experiência intuitiva para o
 
 ## 📸 Capturas de Tela
 
-<img src="https://github.com/Brun0Keys/Random/blob/main/img/boa-sorte-unscreen.gif?raw=true">
+<img src="https://github.com/Brun0Keys/Random/blob/main/img/capa.jpg">
 
 ## 📚 O que Aprendi
 
